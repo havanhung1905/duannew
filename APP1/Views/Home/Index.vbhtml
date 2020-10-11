@@ -12,7 +12,7 @@ End Code
     <div class="col-md-4">
         <h2>XIN CHAO DAY LA HA VAN HUNG</h2>
         <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            M02 da sua cho nay gives you a powerful, patterns-based way to build dynamic websites that
             enables a clean separation of concerns and gives you full control over markup
             for enjoyable, agile development.
         </p>
