@@ -13,14 +13,17 @@ End Code
         <h2>Getting started</h2>
         <h4>M02: BO MAY CUNG SUA CHO NAY NHA</h4>
         <h4>M02: BO MAY CUNG SUA CHO NAY NHA</h4>
+        <h2>XIN CHAO DAY LA HA VAN HUNG</h2>
         <p>
             M02 da sua cho nay
 
+            BO THICK THI SUA THOI
             Sua chi ma nhieu the
         </p>
         <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
+        <p>M01: TAO DA THEM CHO NAY NE </p>
         <h2>Get more libraries</h2>
         <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
         <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
@@ -32,5 +35,11 @@ End Code
 
         <h4>M02: BO MAY CUNG SUA CHO NAY NHA</h4>
         <h4>M02: BO MAY CUNG SUA CHO NAY NHA</h4>
+
+        <p>M01: TAO DA THEM CHO NAY NE </p>
+        <p>M01: TAO DA THEM CHO NAY NE </p>
+        <p>M01: TAO DA THEM CHO NAY NE </p>
+        <p>M01: TAO DA THEM CHO NAY NE </p>
+        <p>M01: TAO DA THEM CHO NAY NE </p>
     </div>
 </div>
