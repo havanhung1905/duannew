@@ -10,9 +10,12 @@ End Code
 
 <div class="row">
     <div class="col-md-4">
+        <h2>Getting started</h2>
+        <h4>M02: BO MAY CUNG SUA CHO NAY NHA</h4>
+        <h4>M02: BO MAY CUNG SUA CHO NAY NHA</h4>
         <h2>XIN CHAO DAY LA HA VAN HUNG</h2>
         <p>
-            M02 da sua cho nay 
+            M02 da sua cho nay
 
             BO THICK THI SUA THOI
             Sua chi ma nhieu the
@@ -29,6 +32,9 @@ End Code
         <h2>Web Hosting</h2>
         <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
         <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+
+        <h4>M02: BO MAY CUNG SUA CHO NAY NHA</h4>
+        <h4>M02: BO MAY CUNG SUA CHO NAY NHA</h4>
 
         <p>M01: TAO DA THEM CHO NAY NE </p>
         <p>M01: TAO DA THEM CHO NAY NE </p>
